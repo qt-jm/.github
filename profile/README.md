@@ -1,3 +1,3 @@
-### <img src="resources/que.jpg">
+### <img src="que.jpg">
 ***
 # QUE PRO
